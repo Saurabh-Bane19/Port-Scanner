@@ -1,0 +1,4 @@
+IP,Port,Status,Service,OS
+127.0.0.1,80,Open,HTTP,Windows
+127.0.0.1,443,Open,HTTPS,Windows
+127.0.0.1,22,Closed,SSH,Linux

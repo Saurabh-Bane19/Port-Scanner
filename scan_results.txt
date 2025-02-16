@@ -1,0 +1,3 @@
+IP: 127.0.0.1, Port: 80, Status: Open, Service: HTTP, OS: Windows
+IP: 127.0.0.1, Port: 443, Status: Open, Service: HTTPS, OS: Windows
+IP: 127.0.0.1, Port: 22, Status: Closed, Service: SSH, OS: Linux
